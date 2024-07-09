@@ -1,4 +1,4 @@
-# Phishing URL Detection 
+# Malicious URL Detection 
 ![image](https://github.com/Vimal007Vimal/Malicious-URL-Detection/assets/144089192/a51420ab-4725-4889-b4a1-d8a84938e9c0)
 ![image](https://github.com/Vimal007Vimal/Malicious-URL-Detection/assets/144089192/a4490670-79a3-49de-b6cc-ee1bbb85bbc6)
 
@@ -50,10 +50,10 @@ Accuracy of various model used for URL detection
 8|	Logistic Regression|        	0.934|	0.941|	0.943|	0.927|
 9|	Naive Bayes Classifier|     	0.605|	0.454|	0.292|	0.997|
 
-Feature importance for Phishing URL Detection 
+Feature importance for Malicious URL Detection 
 <br><br>
 ![image](https://user-images.githubusercontent.com/79131292/144603941-19044aae-7d7b-4e9a-88a8-6adfd8626f77.png)
 
 Gradient Boosting Classifier currectly classify URL upto 97.4% respective classes and hence reduces the chance of malicious attachments.
-\The final conclusion on the Phishing dataset is that the some feature like "HTTTPS", "AnchorURL", "WebsiteTraffic" have more importance to classify URL is phishing URL or not.
-The final take away form this project is to explore various machine learning models, perform Exploratory Data Analysis on phishing dataset and understanding their features.
+\The final conclusion on the Malicious dataset is that the some feature like "HTTTPS", "AnchorURL", "WebsiteTraffic" have more importance to classify URL is Malicious URL or not.
+The final take away form this project is to explore various machine learning models, perform Exploratory Data Analysis on Malicious dataset and understanding their features.
