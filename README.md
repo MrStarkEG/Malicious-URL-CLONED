@@ -1,6 +1,7 @@
 # Malicious URL Detection 
-![image](https://github.com/Vimal007Vimal/Malicious-URL-Detection/assets/144089192/a51420ab-4725-4889-b4a1-d8a84938e9c0)
-![image](https://github.com/Vimal007Vimal/Malicious-URL-Detection/assets/144089192/a4490670-79a3-49de-b6cc-ee1bbb85bbc6)
+![image](https://github.com/Vimal007Vimal/Malicious-URL-Detection/assets/144089192/8f4cbfc2-e19a-4a17-a9e6-a1f38f320164)
+![image](https://github.com/Vimal007Vimal/Malicious-URL-Detection/assets/144089192/c1c36981-bd17-46c8-85e4-0b478761b28c)
+
 
 ## Installation
 The Code is written in Python 3.9 If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
