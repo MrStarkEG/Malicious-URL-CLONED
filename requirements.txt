@@ -6,3 +6,4 @@ pandas
 python_dateutil
 requests
 scikit_learn
+whois 
