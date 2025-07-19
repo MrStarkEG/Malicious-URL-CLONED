@@ -8,7 +8,7 @@ The Code is written in Python 3.9 If you don't have Python installed you can fin
 ```bash
 - `pip install uv`
 - `uv sync`
-- `uv run main.py`
+- `uv run app.py`
 - visit `127.0.0.1:5000'
 ```
 
